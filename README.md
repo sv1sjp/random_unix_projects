@@ -33,6 +33,9 @@ Welcome to the **Random Unix Projects** repository! This collection of scripts c
 10. **vmware_vmmon_vmnet_fix.sh** 🛠️
     - Fix issues with VMware's vmmon and vmnet modules in Linux Kernel. It must be run after each Linux Kernel update.
 
+11. **roman_to_decimal.sh** 🔢
+    - Convert Roman numerals to decimal numbers and vice versa.
+
 
 🤝 Contributing
 This repository sets up as a collection solution for *nix based automatic solutions.
